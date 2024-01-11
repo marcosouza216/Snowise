@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "DALL·E 2024-01-09 11.40.25 - An app icon for 'Snowise', a skiing-related app. The icon should incorporate the name 'Snowise' in a stylish and readable font, complemented by a mini.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

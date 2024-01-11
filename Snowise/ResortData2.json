@@ -1,0 +1,41 @@
+{
+  "data": {
+    "slug": "bluemountain",
+    "name": "Blue Mountain",
+    "country": "CA",
+    "region": "ON",
+    "href": "https://www.bluemountain.ca/mountain/mountain-report#/lifts",
+    "units": "metric",
+    "location": {
+      "latitude": 44.50758,
+      "longitude": -80.316116
+    },
+    "lifts": {
+      "status": {
+        "Easy Rider": "open",
+        "Explorer": "open",
+        "Graduate": "open",
+        "Little Ripper": "closed",
+        "Orchard Express": "closed",
+        "Silver Bullet": "open",
+        "Southern Comfort": "open",
+        "Undergrad": "open",
+        "Valley Express": "open",
+        "Voyageur": "open",
+        "Weider Express": "open"
+      },
+      "stats": {
+        "open": 9,
+        "hold": 0,
+        "scheduled": 0,
+        "closed": 2,
+        "percentage": {
+          "open": 81.8,
+          "hold": 0,
+          "scheduled": 0,
+          "closed": 18.1
+        }
+      }
+    }
+  }
+}
